@@ -1,6 +1,5 @@
 <h1>Projeto-Monitoramento-PC</h1>
-<h2>Funcionalidades 🚀</h2>
-#
+
 <h3>1. Navegação Lateral (Menu)</h3>
 <p>
     Agora a interface possui uma barra lateral contendo os 4 módulos do sistema, permitindo transitar entre os diferentes "apps" da plataforma sem sair da página inicial.
